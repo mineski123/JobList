@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "joblist",
+    "slug": "joblist",
+    "extra": {
+      "eas": {
+        "projectId": "3c9c3ac4-7024-466a-99ef-bfb0aadfac74"
+      }
+    },
+    "android": {
+      "package": "com.clydecloud9.joblist"
+    }
+  }
+}
